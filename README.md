@@ -2,7 +2,7 @@
 
 一个简单的，快速的无依赖，无配置，无冲突的
 快捷极简Mod公告系统
-
+![演示图](https://raw.githubusercontent.com/FIKRY666/AnnouncementCore/main/%E6%BC%94%E7%A4%BA%E5%9B%BE.png)
 用户会在初次装载Mod的时候自动弹出公告，会在初次关闭的时候存储状态，直到版本号更新
 
 极简的使用方法，扔进去即可
