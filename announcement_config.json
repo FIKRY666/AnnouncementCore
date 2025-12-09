@@ -1,0 +1,11 @@
+{
+  "ModId": "苏许.CustomItemLevelValue",
+  "DisplayName": "全能信息面板",
+  "ButtonText": "Mod公告",
+  "Version": "2.1.19",
+  "Author": "苏许",
+  "SteamWorkshopId": "3612733981",
+  "ButtonColor": "#4CAF50BF",
+  "AutoShowIntro": false,
+  "AutoShowUpdates": true
+}
