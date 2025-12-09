@@ -1,11 +1,28 @@
 {
-  "ModId": "苏许.CustomItemLevelValue",
-  "DisplayName": "全能信息面板",
-  "ButtonText": "Mod公告",
-  "Version": "2.1.19",
-  "Author": "苏许",
-  "SteamWorkshopId": "3612733981",
-  "ButtonColor": "#4CAF50BF",
-  "AutoShowIntro": false,
-  "AutoShowUpdates": true
+    // Mod唯一标识符（英文/数字，无空格可使用符号但是不建议使用除".","_"之外的符号）
+    "ModId": "MyAwesomeMod",
+    
+    // 显示名称（支持中文，显示在按钮和标题）
+    "DisplayName": "我的Mod",
+    
+    // 按钮文字（简短描述）
+    "ButtonText": "骗进来杀",
+    
+    // 版本号（语义化版本，检测更新用）
+    "Version": "1.2.3",
+    
+    // 作者（可选）
+    "Author": "你也可以写我😋",
+    
+    // 创意工坊ID（可选，Steam Workshop ID）
+    "SteamWorkshopId": "1234567890",
+    
+    // 按钮颜色（可选，十六进制RGBA，骗进来杀的颜色）
+    "ButtonColor": "#2B5079BF",
+    
+    // 自动显示介绍（可选，首次安装时）
+    "AutoShowIntro": true,
+    
+    // 自动显示更新（可选，版本变化时）
+    "AutoShowUpdates": true
 }
